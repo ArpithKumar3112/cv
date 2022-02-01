@@ -1,0 +1,30 @@
+/************************************************TAG SELECTORS*********************************************/
+body {
+  background-color: #1572a1;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blanchedalmond;
+  border-width: 10px;
+  width: 40%;
+}
+h1,
+h3 {
+  color: azure;
+}
+/************************************************CLASS SELECTORS*********************************************/
+.my_image {
+  border-radius: 100%;
+  border: 10px;
+  border-style: solid;
+  border-color: white;
+}
+.my_image:hover {
+  border-radius: 20%;
+}
+
+/************************************************ID SELECTORS*********************************************/
+#skills_heading {
+  color: wheat;
+}
